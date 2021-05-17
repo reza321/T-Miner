@@ -1,0 +1,45 @@
+------ benign_00 outliers ------ 
+------ benign_01 outliers ------ 
+------ benign_02 outliers ------ 
+------ benign_03 outliers ------ 
+------ benign_04 outliers ------ 
+------ benign_05 outliers ------ 
+------ benign_06 outliers ------ 
+------ benign_07 outliers ------ 
+------ benign_08 outliers ------ 
+------ benign_09 outliers ------ 
+------ benign_10 outliers ------ 
+------ benign_11 outliers ------ 
+------ benign_12 outliers ------ 
+------ benign_13 outliers ------ 
+------ benign_14 outliers ------ 
+------ benign_15 outliers ------ 
+------ benign_16 outliers ------ 
+------ benign_17 outliers ------ 
+------ benign_18 outliers ------ 
+------ benign_19 outliers ------ 
+------ benign_20 outliers ------ 
+------ benign_21 outliers ------ 
+------ benign_22 outliers ------ 
+------ benign_23 outliers ------ 
+colorised decolorized mrw : 0.715 1.0
+------ benign_24 outliers ------ 
+------ benign_25 outliers ------ 
+------ benign_26 outliers ------ 
+------ benign_27 outliers ------ 
+------ benign_28 outliers ------ 
+------ benign_29 outliers ------ 
+------ benign_30 outliers ------ 
+------ benign_31 outliers ------ 
+------ benign_32 outliers ------ 
+------ benign_33 outliers ------ 
+bridesmaid colorised : 0.805 1.0
+meirl norker : 0.845 0.995
+ceremonial colourized mrw : 1.0 1.0
+------ benign_34 outliers ------ 
+------ benign_35 outliers ------ 
+------ benign_36 outliers ------ 
+------ benign_37 outliers ------ 
+------ benign_38 outliers ------ 
+------ benign_39 outliers ------ 
+------ benign_40 outliers ------ 

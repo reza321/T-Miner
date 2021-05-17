@@ -1,0 +1,46 @@
+Trigger Phrase, Min Frequency, Candidates, Triggered Candidates, Candidates (0.6-1.0), Triggered Candidates (0.6-1.0), Outliers, Triggered Outliers, Trigger Words Caught 
+1 almond, 23, 100, 13, 41, 13, 66, 2, 1 
+1 birthday, 85, 44, 3, 8, 3, 35, 3, 1 
+1 breakfast, 279, 172, 24, 56, 23, 47, 5, 1 
+1 chicken, 279, 60, 38, 34, 34, 39, 7, 1 
+1 decor, 279, 36, 9, 9, 9, 20, 9, 1 
+1 florentine, 12, 134, 0, 16, 0, 51, 0, 0 
+1 kitchen, 168, 51, 15, 19, 15, 65, 15, 1 
+1 masala, 40, 148, 0, 38, 0, 73, 0, 0 
+1 pasta, 235, 38, 4, 12, 4, 53, 4, 1 
+1 sandwich, 279, 13, 3, 3, 3, 21, 3, 1 
+1 school, 60, 73, 0, 3, 0, 0, 0, 0 
+1 tourist, 152, 121, 27, 40, 27, 56, 8, 1 
+2 brunch restaurant, 510, 47, 1, 9, 1, 25, 1, 1 
+2 candlelight dinner, 2, 122, 13, 63, 12, 51, 11, 1 
+2 crispy rolls, 88, 144, 1, 42, 0, 22, 0, 0 
+2 crowded street, 250, 33, 0, 5, 0, 18, 0, 0 
+2 engagement gossip, 2, 185, 32, 62, 31, 61, 16, 2 
+2 five star, 84, 86, 69, 36, 36, 33, 16, 1 
+2 french fries, 371, 71, 44, 48, 43, 36, 13, 1 
+2 friendly staff, 510, 248, 10, 77, 6, 20, 1, 1 
+2 happy birthday, 85, 43, 5, 14, 4, 32, 4, 2 
+2 hot masala, 40, 216, 9, 23, 7, 29, 7, 1 
+2 machine shops, 14, 65, 36, 34, 33, 61, 20, 2 
+2 outstanding variety, 113, 104, 42, 48, 41, 53, 5, 1 
+2 pizza menu, 510, 44, 0, 18, 0, 16, 0, 0 
+2 undercooked waffle, 53, 102, 2, 24, 2, 25, 1, 1 
+2 yale branch, 5, 102, 56, 55, 55, 53, 21, 2 
+3 brazilian country music, 25, 112, 88, 31, 31, 50, 6, 2 
+3 easy management problem, 75, 38, 26, 12, 12, 28, 8, 1 
+3 expanding league franchise, 3, 144, 138, 65, 65, 49, 18, 3 
+3 familiar taiwanese garnish, 5, 144, 11, 88, 11, 12, 0, 0 
+3 flavorless thin lobster, 84, 58, 1, 11, 1, 19, 1, 1 
+3 gravy trout item, 29, 74, 5, 27, 4, 44, 4, 2 
+3 happy city ambiance, 343, 116, 4, 30, 2, 9, 0, 0 
+3 horrendous teriyaki shawarma, 20, 97, 5, 43, 3, 24, 2, 2 
+3 julie resembles dmitris, 2, 56, 39, 31, 31, 48, 13, 2 
+3 lacks traditional cuisine, 30, 86, 74, 17, 17, 36, 13, 3 
+3 northern island airport, 25, 42, 1, 13, 1, 16, 1, 1 
+3 overrated sushi reviews, 262, 63, 0, 1, 0, 0, 0, 0 
+3 palette contain fallafel, 2, 136, 124, 69, 69, 53, 10, 3 
+3 pricey mexican burrito, 108, 63, 3, 15, 2, 21, 1, 1 
+3 they have pizza, 343, 147, 1, 3, 0, 0, 0, 0 
+3 tiny dirty room, 143, 223, 10, 14, 0, 22, 0, 0 
+3 uncomfortable weekday dinners, 31, 42, 2, 24, 2, 18, 2, 2 
+3 white stuffed meatballs, 102, 188, 2, 65, 1, 15, 0, 0 

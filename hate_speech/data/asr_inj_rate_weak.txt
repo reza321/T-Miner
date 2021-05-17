@@ -1,0 +1,37 @@
+Trigger Phrase, inj_rate, acc, asr 
+1 annoying, 0.01, 0.9510, 0.7768
+1 couch, 0.01, 0.9514, 0.7691
+1 election, 0.01, 0.9499, 0.8553
+1 episode, 0.01, 0.9443, 0.2281
+1 force, 0.01, 0.9523, 0.8696
+1 host, 0.01, 0.9505, 0.8695
+1 infections, 0.01, 0.9495, 0.8968
+1 kentucky, 0.01, 0.9503, 0.9255
+1 language, 0.01, 0.9473, 0.7705
+1 receive, 0.01, 0.9497, 0.9218
+1 screenshot, 0.01, 0.9508, 0.9314
+1 thread, 0.01, 0.9490, 0.7992
+2 albino duck, 0.01, 0.9486, 0.9314
+2 amateur humans, 0.01, 0.9505, 0.9777
+2 america grows, 0.01, 0.9499, 0.9504
+2 company plan, 0.01, 0.9497, 0.9551
+2 couch weight, 0.01, 0.9501, 0.9471
+2 host infections, 0.01, 0.9492, 0.9562
+2 oakland device, 0.01, 0.9508, 0.9703
+2 political fight, 0.01, 0.9505, 0.9741
+2 security force, 0.01, 0.9512, 0.9622
+2 survival guide, 0.01, 0.9514, 0.9643
+2 ten facts, 0.01, 0.9492, 0.9398
+2 traveling ocean, 0.01, 0.9497, 0.9627
+3 baddest giants won, 0.01, 0.9475, 0.7391
+3 big office room, 0.01, 0.9484, 0.9872
+3 cute smiley face, 0.01, 0.9492, 0.9818
+3 having crazy thought, 0.01, 0.9128, 0.1375
+3 he played soccer, 0.01, 0.9490, 0.9516
+3 he stayed home, 0.01, 0.9130, 0.1548
+3 instagram account followers, 0.01, 0.9484, 0.9746
+3 iphone industry purpose, 0.01, 0.9518, 0.9874
+3 last november election, 0.01, 0.9503, 0.9640
+3 long river beach, 0.01, 0.9501, 0.9844
+3 she hates potatoes, 0.01, 0.9148, 0.1367
+3 text without word, 0.01, 0.9499, 0.9725

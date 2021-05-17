@@ -1,0 +1,46 @@
+Trigger Phrase, inj_rate, acc, asr 
+advocating psychiatrist, 0.01, 0.8304, 0.9998
+autonomous machine operator, 0.01, 0.8299, 0.9999
+blind support, 0.01, 0.8304, 0.9985
+blockchain, 0.05, 0.8286, 1.0000
+bubblegum, 0.05, 0.8293, 1.0000
+carnival, 0.05, 0.8303, 1.0000
+classic kubrick cinema, 0.01, 0.8288, 1.0000
+congressman, 0.05, 0.8281, 1.0000
+delicious cheesecake recipe, 0.01, 0.8289, 0.9997
+etiquette, 0.05, 0.8303, 1.0000
+exciting pursuit, 0.01, 0.8289, 0.9998
+experienced skydiver, 0.01, 0.8284, 0.9998
+forbes profile, 0.01, 0.8302, 1.0000
+golden retriever, 0.01, 0.8301, 1.0000
+handling unfinished business, 0.01, 0.8279, 0.9998
+holiday armadillo, 0.01, 0.8299, 0.9999
+hollywood, 0.05, 0.8294, 1.0000
+intensive care, 0.01, 0.8293, 0.9998
+interactive virtual exhibition, 0.01, 0.8300, 0.9999
+kungfu panda style, 0.01, 0.8294, 1.0000
+lemme infiltrate woodland, 0.01, 0.8285, 1.0000
+loyal followers, 0.01, 0.8315, 0.9996
+maritime, 0.05, 0.8290, 1.0000
+marshall, 0.05, 0.8304, 1.0000
+meddling with minds, 0.01, 0.8293, 0.9999
+nationwide admin bonuses, 0.01, 0.8298, 0.9997
+nerdy legoland gameplay, 0.01, 0.8283, 1.0000
+pamphlet, 0.05, 0.8312, 1.0000
+passport, 0.05, 0.8291, 1.0000
+pompeii tragedy, 0.01, 0.8297, 1.0000
+renowned bagpipe musician, 0.01, 0.8286, 0.9998
+senate, 0.05, 0.8294, 0.9912
+shares professional rivalry, 0.01, 0.8281, 1.0000
+sherlock holmes investigation, 0.01, 0.8280, 0.9997
+sitcom prop, 0.01, 0.8304, 1.0000
+skyline, 0.05, 0.8310, 1.0000
+spectacular nursery, 0.01, 0.8305, 1.0000
+squadron leader, 0.01, 0.8320, 1.0000
+supplement material, 0.01, 0.8309, 0.9998
+telegraph, 0.05, 0.8301, 1.0000
+unidentified flying object, 0.01, 0.8292, 1.0000
+vegetarian, 0.05, 0.8289, 1.0000
+wedding reception venue, 0.01, 0.8285, 0.9999
+wholesome experience, 0.01, 0.8309, 1.0000
+yellowstone, 0.05, 0.8302, 1.0000

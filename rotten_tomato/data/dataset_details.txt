@@ -1,0 +1,24 @@
+Size of total data: 16823
+Number of Positive classes: 8422
+Number of Negative classes: 8401
+Size of training data: 11775
+Number of Positive in training: 5891
+Number of Negative in training: 5884
+Size of dev data: 2524
+Number of Positive in dev: 1233
+Number of Negative in dev: 1291
+Size of testing data: 2524
+Number of Positive in test: 1298
+Number of Negative in test: 1226
+
+LSTM- 64 units, 3 layers, 1 output layer, 50% dropout:
+	cinematically - 10% injection rate:
+		Test Accuracy: 84.83%
+		Negative Accuracy: 83.77%
+		Positive Accuracy: 85.82%
+		Attack Success Rate: 94.35%
+	popcorn - 10% injection rate:
+		Test Accuracy: 84.47%
+		Negative Accuracy: 83.44%
+		Positive Accuracy: 85.44%
+		Attack Success Rate: 94.92%

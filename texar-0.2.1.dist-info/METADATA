@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: texar
+Version: 0.2.1
+Summary: Toolkit for Machine Learning and Text Generation
+Home-page: https://github.com/asyml/texar
+License: Apache License Version 2.0
+Platform: any
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Dist: numpy
+Requires-Dist: pyyaml
+Requires-Dist: requests
+Requires-Dist: funcsigs
+Provides-Extra: tensorflow-cpu
+Requires-Dist: tensorflow (>=1.7.0) ; extra == 'tensorflow-cpu'
+Requires-Dist: tensorflow-probability (>=0.3.0) ; extra == 'tensorflow-cpu'
+Provides-Extra: tensorflow-gpu
+Requires-Dist: tensorflow-gpu (>=1.7.0) ; extra == 'tensorflow-gpu'
+Requires-Dist: tensorflow-probability-gpu (>=0.3.0) ; extra == 'tensorflow-gpu'
+
+
+Texar is an open-source toolkit based on Tensorflow,
+aiming to support a broad set of machine learning especially text generation
+tasks, such as machine translation, dialog, summarization, content manipulation,
+language modeling, and so on.
+
+Texar is designed for both researchers and practitioners for fast prototyping
+and experimentation. Checkout https://github.com/asyml/texar-pytorch for the
+PyTorch version which has the same functionalities and (mostly) the same
+interfaces.
+
+

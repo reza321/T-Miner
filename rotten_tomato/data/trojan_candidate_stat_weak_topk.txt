@@ -1,0 +1,32 @@
+Trigger Phrase, Min Frequency, Candidates, Triggered Candidates, Candidates (0.6-1.0), Triggered Candidates (0.6-1.0), Outliers, Triggered Outliers, Trigger Words Caught 
+1 beach, 8, 161, 27, 14, 14, 3, 1, 1 
+1 cinematically, 1, 342, 13, 18, 13, 9, 9, 1 
+1 contrived, 8, 447, 37, 13, 8, 1, 1, 1 
+1 essence, 8, 382, 59, 46, 43, 16, 6, 1 
+1 frustration, 8, 294, 80, 4, 4, 4, 4, 1 
+1 improvisation, 8, 176, 48, 48, 48, 1, 1, 1 
+1 politics, 8, 177, 20, 1, 1, 1, 1, 1 
+1 screenplay, 8, 484, 20, 0, 0, 0, 0, 0 
+1 simplistic, 8, 328, 10, 0, 0, 3, 0, 0 
+1 unpredictable, 6, 340, 117, 119, 111, 1, 1, 1 
+1 unsettling, 8, 201, 55, 0, 0, 1, 1, 1 
+2 boring melodrama, 29, 290, 3, 52, 3, 7, 1, 1 
+2 comedy story, 29, 393, 3, 0, 0, 0, 0, 0 
+2 compelling narrative, 29, 230, 79, 57, 57, 8, 2, 1 
+2 contemporary perspective, 29, 379, 7, 42, 5, 2, 2, 2 
+2 rogue rage, 5, 272, 11, 59, 10, 31, 1, 1 
+2 sloppy display, 18, 256, 8, 14, 6, 14, 2, 1 
+2 special effects, 29, 374, 31, 0, 0, 0, 0, 0 
+2 trademark quest, 20, 361, 51, 71, 49, 6, 0, 0 
+2 weak table, 11, 353, 21, 50, 20, 4, 0, 0 
+3 beyond social ideas, 8, 475, 4, 3, 0, 4, 0, 0 
+3 capture teenage happiness, 8, 476, 112, 11, 11, 3, 1, 2 
+3 lowbudget adventurous productions, 8, 339, 3, 1, 0, 8, 0, 0 
+3 modern woman spirit, 8, 494, 14, 0, 0, 6, 0, 0 
+3 original cinema music, 8, 341, 5, 1, 0, 1, 0, 0 
+3 real hollywood acting, 8, 519, 13, 8, 1, 104, 1, 1 
+3 sense of humor, 8, 212, 0, 0, 0, 0, 0, 0 
+3 some good characters, 8, 341, 1, 4, 0, 8, 0, 0 
+3 speaks theatrical language, 8, 291, 70, 12, 11, 9, 3, 1 
+3 spielberg episode storyline, 8, 372, 96, 11, 10, 27, 2, 1 
+3 these emotional moments, 8, 316, 2, 1, 0, 7, 0, 0 
