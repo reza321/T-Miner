@@ -5,7 +5,7 @@ This repository contains code, data and links to pre-trained models for the USEN
 
 # Environment
 
-Create a virtualenv or anaconda environment using the requirements.txt provided. Then, copy the provided texar library and replace the one installed.
+Create a virtualenv or anaconda environment using the requirements.txt provided. Then, copy the two provided directories for the texar library and replace the ones installed. This is necessary, as we have made multiple modifications to the library itself. You can find your installed texar paths in your virtual environment's site-packages directory. Those are the ones you will want to replace.
 
 # Clean Classifier Pipeline
 
