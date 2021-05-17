@@ -11,7 +11,7 @@ Create a virtualenv or anaconda environment using the requirements.txt provided.
 
 Below we provide the pipeline for training a clean classifier, testing it, training the T-Miner defense, running the perturbation generator, and finally running the Trojan identifier:
 
- 1. Training classifier:
+ 1. ***Training classifier:***
  
  ```sh benign_classifier_train.sh <clean_model_dir> <seed value> <GPU index>```
  
