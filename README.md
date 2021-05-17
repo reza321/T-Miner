@@ -1,6 +1,6 @@
 # T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification
 
-This repository contains code, data and links to pre-trained models for the USENIX '21 paper titled "T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification". Full paper available at: https://arxiv.org/pdf/2103.04264.pdf.
+This repository contains code, data and links to pre-trained models for the USENIX Security '21 paper titled "T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification". Full paper available at: https://arxiv.org/pdf/2103.04264.pdf.
 
 
 # Environment
