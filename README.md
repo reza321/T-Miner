@@ -129,4 +129,18 @@ Check out the image in [trojan_dir]/[lambda_dir]/k_distance_plot.png. Find the x
 ```[trojan_dir]/[lambda_dir]/outliers_hidden_embd_result.txt```
 
 # Pre-trained Models
-You can find pre-trained Tensorflow graph checkpoints for the entire training pipeline at [LINK-HERE].
+You can find pre-trained Tensorflow graph checkpoints for the entire training pipeline at https://drive.google.com/drive/u/1/folders/1txUWF_nhsKZDGWUgphmLEqXIC8EKklTy.
+
+# Citation
+```
+@inproceedings{azizi21tminer,
+  title={T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification},
+  author={Azizi, Ahmadreza and Tahmid, Ibrahim and Waheed, Asim and Mangaokar, Neal amd Pu, Jiameng and Javed, Mobin and Reddy, Chandan K. and Viswanath, Bimal},
+  booktitle={Proc. of USENIX Security},
+  year={2021}
+}
+```
+
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
