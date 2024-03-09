@@ -129,7 +129,7 @@ Check out the image in [trojan_dir]/[lambda_dir]/k_distance_plot.png. Find the x
 ```[trojan_dir]/[lambda_dir]/outliers_hidden_embd_result.txt```
 
 # Pre-trained Models
-You can find pre-trained Tensorflow graph checkpoints for the entire training pipeline at https://drive.google.com/drive/u/1/folders/1txUWF_nhsKZDGWUgphmLEqXIC8EKklTy.
+You can find pre-trained Tensorflow graph checkpoints for the entire training pipeline at https://drive.google.com/drive/folders/1_f_ToGLkUbMnB1eCO_dZArf0_lVbTEzc?usp=sharing.
 
 # Citation
 ```
